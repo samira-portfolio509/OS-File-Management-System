@@ -22,4 +22,4 @@ A cross-platform desktop application built to simulate file management and disk 
 1. Clone the repository.
 2. Open the project in Qt Creator or build using CMake/qmake.
 3. Run the application executable.
-4.
+
